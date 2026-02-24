@@ -40,7 +40,7 @@ Please change the parent <Route path="${T}"> to <Route path="${T==="/"?"*":`${T}
   min-[1110px]:h-[550px]\r
   min-[1210px]:h-[608px]\r
   min-[1310px]:h-[750px]\r
-  `,children:g.jsx(Cb,{})}),g.jsxs("div",{className:` relative bg-[url('bg-1.jpg')] bg-cover bg-center bg-no-repeat \r
+  `,children:g.jsx(Cb,{})}),g.jsxs("div",{className:` relative  bg-cover bg-center bg-no-repeat \r
        order-2 min-[992px]:order-1\r
          h-[430px]\r
   min-[410px]:h-[350px]\r
