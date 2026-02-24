@@ -46,7 +46,7 @@ Please change the parent <Route path="${T}"> to <Route path="${T==="/"?"*":`${T}
   min-[410px]:h-[350px]\r
   min-[570px]:h-[350px]\r
   min-[768px]:h-[600px] min-[992px]:h-[500px] min-[1110px]:h-[550px] min-[1210px]:h-[608px]\r
-  min-[1310px]:h-[750px] `,children:[g.jsx("div",{className:" absolute inset-0 bg-black/60"}),g.jsxs("div",{className:"container relative flex flex-col justify-center h-full",children:[g.jsx("h1",{className:`text-white text-[42px]\r
+  min-[1310px]:h-[750px] `,style:{backgroundImage:'url("bg-1.jpg")'},children:[g.jsx("div",{className:" absolute inset-0 bg-black/60"}),g.jsxs("div",{className:"container relative flex flex-col justify-center h-full",children:[g.jsx("h1",{className:`text-white text-[42px]\r
              font-semibold pb-14 leading-12 min-[665px]:text-[50px] leading-16\r
              min-[910px]:text-[60px] pr-10 font-bold min-[1310px]:pr-16 `,children:"Enjoy wonderful day with your family"}),g.jsxs("div",{className:"flex items-center gap-8",children:[g.jsx("button",{className:"bg-[#2EB872] text-white px-6 py-4",children:"Read More"}),g.jsxs("div",{className:"flex items-center gap-3",children:[g.jsx("button",{className:"bg-white p-4 rounded-full flex items-center justify-center",children:g.jsx(Xx,{className:"text-[#2EB872]"})}),g.jsx("button",{className:`hidden min-[576px]:inline-flex text-white px-4 py-4 text-1xl\r
     font-semibold`,children:"Watch Video"})]})]})]})]})]})}),g.jsx("section",{id:"About",children:g.jsxs("div",{className:"container mb-12",children:[g.jsxs("div",{className:` px-6  my-16 \r
